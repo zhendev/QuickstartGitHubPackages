@@ -1,0 +1,19 @@
+{
+  "name": "@zhendev/quickstartgithubpackages",
+  "version": "1.0.0",
+  "description": "Quick start github packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhendev/QuickstartGitHubPackages.git"
+  },
+  "author": "Zhen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhendev/QuickstartGitHubPackages/issues"
+  },
+  "homepage": "https://github.com/zhendev/QuickstartGitHubPackages#readme"
+}
